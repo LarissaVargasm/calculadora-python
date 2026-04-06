@@ -16,4 +16,4 @@ Uma calculadora funcional com interface gráfica moderna, desenvolvida para prat
    pip install -r requirements.txt
 
 
-[🔗 Clique aqui para ver o código fonte](https://github.com/LarissaVargasm/calculadora-python)
+[🔗 Clique aqui para ver o código fonte](https://github.com/LarissaVargasm/calculadora-python/blob/main/calculadora.py)]
