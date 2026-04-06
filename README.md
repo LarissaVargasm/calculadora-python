@@ -1,4 +1,4 @@
-# 🧮 Calculadora Moderna - Python
+# 🧮 Calculadora - Python
 
 Uma calculadora funcional com interface gráfica moderna, desenvolvida para praticar lógica de programação e o uso da biblioteca `CustomTkinter`.
 ![Demonstração da Calculadora]
